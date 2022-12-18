@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgcXo10ToLBSOX31GesbmRsrcgEe0Qt2WRkXWdsJ+fkxXzCsIH6c6/+pDx1sAJDIWgzS/pMA5UUv+kJfzWI3dw==",
+  "success": true,
+  "projectFilePath": "/Users/zilunli/Desktop/Unimelb/2022S2/COMP30019/Project1/project-1-ray-tracer-Zilunl/RayTracer.csproj",
+  "expectedPackageFiles": [
+    "/Users/zilunli/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512",
+    "/Users/zilunli/.nuget/packages/stbimagewritesharp/1.16.7/stbimagewritesharp.1.16.7.nupkg.sha512"
+  ],
+  "logs": []
+}
